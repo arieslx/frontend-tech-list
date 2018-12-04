@@ -59,8 +59,8 @@
 
 ## 0. 年度报告
 
-- [ ] [2018 前端工具调查报告](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2018-results)
-- [ ] [2018 JavaScript 调查报告](https://2018.stateofjs.com/)
+- [x] [2018 前端工具调查报告](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2018-results)
+- [x] [2018 JavaScript 调查报告](https://2018.stateofjs.com/)
 
 ## 1. 基础拾遗
 
@@ -68,19 +68,19 @@
 
 ### 1.1. JavaScript
 
-- [You-Dont-Know-JS \[英\]](https://github.com/getify/You-Dont-Know-JS)
+- [ ]  [You-Dont-Know-JS \[英\]](https://github.com/getify/You-Dont-Know-JS)
 - JavaScript 基础运行机制：
-    - [JS 引擎、运行时与调用栈概述 \[英\]](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
-    - [V8 引擎简介 \[英\]](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
-    - [内存管理与4中常见的泄漏 \[英\]](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
+    - [ ] [JS 引擎、运行时与调用栈概述 \[英\]](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
+    - [ ] [V8 引擎简介 \[英\]](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
+    - [ ] [内存管理与4中常见的泄漏 \[英\]](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
 - Event Loop（面试里总会有一题 Event Loop…）：
-    - [从 Event Loop 规范探究 JavaScript 异步及浏览器更新渲染时机](https://github.com/aooy/blog/issues/5)
-    - [异步之 Event Loop \[英\]](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
-    - [NodeJS 中的 Event Loop、Timers 与 `process.nextTick()` \[英\]](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
-    - [Tasks、Microtasks、Queues 与Schedules \[英\]](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
-- [Web Workers 及其5个常见使用场景 \[英\]](https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a)
-- [如何避免 async/await 地狱 \[英\]](https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c)
-- [“回调地狱”的解决思路汇总](https://www.jianshu.com/p/bc7b8d542dcd)
+    - [ ] [从 Event Loop 规范探究 JavaScript 异步及浏览器更新渲染时机](https://github.com/aooy/blog/issues/5)
+    - [ ] [异步之 Event Loop \[英\]](https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5)
+    - [ ] [NodeJS 中的 Event Loop、Timers 与 `process.nextTick()` \[英\]](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
+    - [ ] [Tasks、Microtasks、Queues 与Schedules \[英\]](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+- [ ] [Web Workers 及其5个常见使用场景 \[英\]](https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a)
+- [ ] [如何避免 async/await 地狱 \[英\]](https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c)
+- [ ] [“回调地狱”的解决思路汇总](https://www.jianshu.com/p/bc7b8d542dcd)
 
 ### 1.2. CSS
 
