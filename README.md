@@ -59,8 +59,8 @@
 
 ## 0. 年度报告
 
-- [2018 前端工具调查报告](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2018-results)
-- [2018 JavaScript 调查报告](https://2018.stateofjs.com/)
+- [ ] [2018 前端工具调查报告](https://ashleynolan.co.uk/blog/frontend-tooling-survey-2018-results)
+- [ ] [2018 JavaScript 调查报告](https://2018.stateofjs.com/)
 
 ## 1. 基础拾遗
 
